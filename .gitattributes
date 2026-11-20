@@ -1,0 +1,3 @@
+# SaintHub release payloads use byte-stable LF.
+*.lua text eol=lf
+*.json text eol=lf
